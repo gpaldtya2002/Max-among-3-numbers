@@ -1,1 +1,1 @@
-# To-find-max-among-three-numbers
+# Max-among-three-numbers
